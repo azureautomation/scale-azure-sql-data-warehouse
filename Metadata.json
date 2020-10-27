@@ -1,0 +1,20 @@
+{
+    "Author": "Allan.Miller",
+    "ContentSize": 5829,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/scale-azure-sql-data-warehouse/master/ScaleAzureSQLDataWarehouse.ps1",
+    "DownloadCount": 1373,
+    "Id": "Scale-Azure-SQL-Data-39496dc3",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 197,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-11-3T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Scale Azure SQL Data WarehouseThis is a simple runbook that will allow you to scale your Azure SQL Data Warehouse.Depending on your goals with Azure SQL Data Warehouse, at time it is important to scale up and down depending the incoming workload or amount of data. In Automation,",
+    "Title": "Scale Azure SQL Data Warehouse",
+    "UpdatedDate": "2017-11-3T00:00:00",
+    "Url": "https://github.com/azureautomation/scale-azure-sql-data-warehouse",
+    "UserTags": "Azure Automation, Azure SQL Data Warehouse"
+}
